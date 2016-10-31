@@ -1,0 +1,27 @@
+﻿Field=#~Integer~#~50|Field=Designator~String~Designator~307|Field=Value~String~Value~104|Field=Description~String~Description~248|Field=Cost x1 ($)~String~Cost x1 ($)~76|Field=Manufacturer~String~Manufacturer~233|Field=Manufacturer Part Number~String~Manufacturer Part Number~139|Field=Quantity~Integer~Quantity~83|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~SHIELD_ENC28J60.PrjPcb|ReportField=ProjectFullPath~E:\PROJECTS\SHIELD_ENC28J60\SHIELD_ENC28J60.PrjPcb|ReportField=Title~Bill of Materials For Project [SHIELD_ENC28J60.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~66|ReportField=ReportTime~1:25:54 AM|ReportField=ReportDate~10/31/2016|ReportField=ReportDateTime~10/31/2016 1:25:54 AM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~10/31/2016|ReportField=CurrentTime~1:04:45 AM|ReportField=Date~|ReportField=DocumentFullPathAndName~E:\PROJECTS\SHIELD_ENC28J60\SHIELD_ENC28J60.SchDoc|ReportField=DocumentName~SHIELD_ENC28J60.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~10/31/2016|ReportField=Organization~|ReportField=ProjectName~SHIELD_ENC28J60.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~SHIELD_ENC28J60.PrjPcb|ReportField=DataSourceFullPath~E:\PROJECTS\SHIELD_ENC28J60\SHIELD_ENC28J60.PrjPcb
+1|BT1|BC501SM|HOLDER COIN CELL FOR CR1220 SMD|0.88000|MPD (Memory Protection Devices)|BC501SM|1
+2|C1, C2|10nF|CAP CER 10000PF 50V X7R 0805|0.10000|Samsung Electro-Mechanics America, Inc.|CL21B103KBANNNC|2
+3|C3, C4, C8, C9, C10, C11, C12, C14, C15, C18, C19, C28|100nF|CAP CER 0.1UF 25V X7R 0805|0.10000|Samsung Electro-Mechanics America, Inc.|CL21B104KACNNNC|12
+4|C5, C6|18pF|CAP CER 18PF 50V NP0 0805|0.10000|Samsung Electro-Mechanics America, Inc.|CL21C180JBANNNC|2
+5|C7|10uF|CAP CER 10UF 10V X5R 0805|0.18000|Samsung Electro-Mechanics America, Inc|CL21A106KPFNNNE|1
+6|C13, C16|8pF|CAP CER 8PF 50V NP0 0805|0.10000|Samsung Electro-Mechanics America, Inc.|CL21C080CBANNNC|2
+7|CN1|HR911105A|CONN MAGJACK 1PORT 100 BASE-T||||1
+8|CN2, CN5|HDR_1X6|CONN ARDUINO HEADER .0100" 6POS||||2
+9|CN3|HDR_1X10|CONN ARDUINO HEADER .0100" 10POS||||1
+10|CN4|MICRO-SD|CONN MICRO SD CARD PUSH-PUSH R/A||TransFlash||1
+11|CN6|HDR_1X8|CONN ARDUINO HEADER .0100" 8POS||||1
+12|FB1|BEAD|FERRITE CHIP POWER 120 OHM SMD|0.10000|Laird-Signal Integrity Products|HI0805O121R-10|1
+13|H1, H2, H3, H4|HOLE_125MIL|Holes||||4
+14|IC1|ENC28J60|IC ETHERNET CTLR SPI 28SSOP|2.84000|Microchip Technology|ENC28J60T-I/SS|1
+15|IC2|PCF8523|IC RTC CLK/CALENDAR I2C 8-HVSON|1.33000|NXP Semiconductors|PCF8523TK/1,118|1
+16|IC3|AT24C128|IC EEPROM 128KBIT 1MHZ 8SOIC||Atmel|AT24C128C-SSHM-T|1
+17|IC6|SHT21|HUMIDITY AND TEMPERATURE SENSOR|8.97000|Sensirion AG|SHT21|1
+18|LED1, LED2, LED3, LED4|LED_RED|LED SUPER RED CLR THIN 0805 SMD|0.32000|Lite-On Inc|LTST-C171KRKT|4
+19|R1, R2, R3, R4|49R9|RES SMD 49.9 OHM 1% 1/8W 0805|0.10000|Samsung Electro-Mechanics America, Inc.|RC2012F49R9CS|4
+20|R5, R6, R17, R20, R21, R22|330R|RES SMD 330 OHM 1% 1/8W 0805|0.10|Yageo|RC0805FR-07330RL|6
+21|R7|2K|RES SMD 2K OHM 1% 1/8W 0805|0.10|Yageo|RC0805FR-072KL|1
+22|R8, R9, R10, R11, R12, R13, R14, R15, R16, R19|10K|RES SMD 10K OHM 1% 1/8W 0805|0.10|Yageo|RC0805FR-0710KL|10
+23|R18|100K|RES SMD 100K OHM 1% 1/8W 0805|0.10|Yageo|RC0805FR-07100KL|1
+24|SW1, SW2, SW3|SWITCH_TACTILE_MICRO_2PIN|SWITCH TACTILE SPST-NO 0.05A 12V|0.76000|C&K Components|RS-282G05A3-SM RT|3
+25|X1|25MHz|CRYSTAL 25.0000MHZ 18PF T/H||CTS-Frequency Controls|ATS250B-E|1
+26|X2|32.768kHz|CRYSTAL 32.768KHZ 6PF THRU||Seiko Instruments|VT200F-6PF20PPM|1
